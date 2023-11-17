@@ -1,0 +1,2 @@
+(self.webpackChunk_2_0=self.webpackChunk_2_0||[]).push([[811],{8280:function(e,t,l){"use strict";l.r(t);var n=l(7294),r=l(5414);t.default=()=>n.createElement("div",null,n.createElement(r.q,null,n.createElement("meta",{httpEquiv:"refresh",content:"0;url=https://drive.google.com/file/d/11PPr2zMPdnBOmxSQiAVkiWeSLHK5kO3b/view"})))}}]);
+//# sourceMappingURL=component---src-pages-resume-blockchain-js-ae1b67e5ce6c07b77c65.js.map

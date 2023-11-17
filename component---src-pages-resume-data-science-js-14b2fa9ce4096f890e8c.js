@@ -1,0 +1,2 @@
+(self.webpackChunk_2_0=self.webpackChunk_2_0||[]).push([[147],{2072:function(e,t,l){"use strict";l.r(t);var n=l(7294),r=l(5414);t.default=()=>n.createElement("div",null,n.createElement(r.q,null,n.createElement("meta",{httpEquiv:"refresh",content:"0;url=https://drive.google.com/file/d/1vOO2SBSE1BHrklj6f_Nh-0nbkt_k9YUm/view"})))}}]);
+//# sourceMappingURL=component---src-pages-resume-data-science-js-14b2fa9ce4096f890e8c.js.map

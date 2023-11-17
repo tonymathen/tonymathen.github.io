@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://tonymathen.com/sitemap.xml
+Host: https://tonymathen.com

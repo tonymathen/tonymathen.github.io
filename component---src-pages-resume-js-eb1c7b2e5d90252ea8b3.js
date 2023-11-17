@@ -1,0 +1,2 @@
+(self.webpackChunk_2_0=self.webpackChunk_2_0||[]).push([[903],{2592:function(e,t,l){"use strict";l.r(t);var n=l(7294),u=l(5414);t.default=()=>n.createElement("div",null,n.createElement(u.q,null,n.createElement("meta",{httpEquiv:"refresh",content:"0;url=https://drive.google.com/file/d/10dBix-X7O5pUWe4FH47KslTK7KQubW-5/view"})))}}]);
+//# sourceMappingURL=component---src-pages-resume-js-eb1c7b2e5d90252ea8b3.js.map

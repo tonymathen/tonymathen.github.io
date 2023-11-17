@@ -1,0 +1,2 @@
+(self.webpackChunk_2_0=self.webpackChunk_2_0||[]).push([[511],{1542:function(e,t,l){"use strict";l.r(t);var n=l(7294),r=l(5414);t.default=()=>n.createElement("div",null,n.createElement(r.q,null,n.createElement("meta",{httpEquiv:"refresh",content:"0;url=https://drive.google.com/file/d/1enduJ6OR7PZ1jXjrTr96O0SCbmMIcs7q/view"})))}}]);
+//# sourceMappingURL=component---src-pages-resume-iiitm-js-9054ad96ba5399b5b1ca.js.map
