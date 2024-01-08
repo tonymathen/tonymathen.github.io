@@ -1,0 +1,2 @@
+(self.webpackChunk_2_0=self.webpackChunk_2_0||[]).push([[903],{2592:function(e,t,l){"use strict";l.r(t);var n=l(7294),r=l(5414);t.default=()=>n.createElement("div",null,n.createElement(r.q,null,n.createElement("meta",{httpEquiv:"refresh",content:"0;url=https://drive.google.com/file/d/1aTCJCfKpK2zRvO-I9QX8w0T9o-Zgjkcr/view?usp=sharing"})))}}]);
+//# sourceMappingURL=component---src-pages-resume-js-78fac68e613a31d78200.js.map
